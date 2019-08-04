@@ -93,9 +93,6 @@ var createStackTemplate = function(title, description) {
                         <lockup id="longTitleLockup">
                             <img width="308" height="308" style="tv-placeholder: music;" />
                             <title>Long Title Lockup With Long Title</title>
-                            <overlay>
-                                <img src="resource://button-play"/>
-                            </overlay>
                         </lockup>
                         <lockup>
                             <img width="308" height="308" style="tv-placeholder: music;"/>
