@@ -1,7 +1,7 @@
 # MarqueeTextTest
-Demo showing CPU problem causes by Marquee Style
+Demo showing CPU problem caused by Marquee-on=Highlight Style
 
-## How to observe the problme
+## How to observe the problem
 Run the project.
 First lockup will be auto-highlighted.
 Highlight the second lockup and observe the spike in CPU usage.
